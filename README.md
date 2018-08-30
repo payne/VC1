@@ -2,4 +2,4 @@ This is from https://github.com/CodingTrain/website/tree/master/Courses/beginner
 
 The video is https://www.youtube.com/watch?v=D9BoBSkLvFo
 
-http://MattPayne.org/VC1
+https://MattPayne.org/VC1 and accept the bad certificate warning.  https is needed to get the camera to turn on....
